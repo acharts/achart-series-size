@@ -1,6 +1,6 @@
 {
   "name": "achart-series-size",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "size of series",
   "keywords": ["acharts","achart-series-size"],
   "homepage": "https://github.com/acharts/achart-series-size",
@@ -16,7 +16,7 @@
   "spm": {
     "main": "index.js",
     "dependencies": {
-      "achart-util" : "1.0.0"
+      "achart-util" : "~1.0.0"
     },
     "devDependencies": {
       "expect.js": "0.3.1"
